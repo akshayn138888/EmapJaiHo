@@ -1,0 +1,3 @@
+Rails controller
+
+1. Welcome
